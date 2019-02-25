@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546123068 source:c:\users\víctor\documents\aceptaelreto\c++\problema 431\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<algorithm>
+
